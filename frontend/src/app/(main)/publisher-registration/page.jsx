@@ -248,7 +248,3 @@ export default function PublisherSignup() {
     </div>
   );
 }
-import React, { useState } from 'react';
-import axios from 'axios';
-import toast from 'react-hot-toast';
-import styled from 'styled-components';
